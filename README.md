@@ -22,7 +22,3 @@ samples, guidance on mobile development, and a full API reference.
 ## License
 
 This project includes code and notes derived from my personal learning experience, and it follows the guidelines provided on the official Flutter website. If you wish to use or refer to this code, please ensure to comply with any relevant licensing or guidelines from the original material.
-
-## Contact
-
-Feel free to contact me with any questions or comments about this project. Happy coding!
