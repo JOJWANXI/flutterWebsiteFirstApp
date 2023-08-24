@@ -1,6 +1,10 @@
 # first_flutter
 
-A new Flutter project.
+A new Flutter project. In July 2023, I embarked on a journey to learn Flutter. Following the instructions on the official Flutter website (linked below), I have crafted this version with my personal notes. These insights will help me smoothly start my exploration of Flutter and Dart.
+
+## Personal Notes
+
+Here, I've incorporated my personal observations and notes that guided me through my first Flutter app. This section will be updated as I continue to explore and understand more about Flutter and Dart. Feel free to refer to my notes and compare them with your own experiences.
 
 ## Getting Started
 
@@ -14,3 +18,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## License
+
+This project includes code and notes derived from my personal learning experience, and it follows the guidelines provided on the official Flutter website. If you wish to use or refer to this code, please ensure to comply with any relevant licensing or guidelines from the original material.
+
+## Contact
+
+Feel free to contact me with any questions or comments about this project. Happy coding!
